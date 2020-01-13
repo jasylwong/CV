@@ -25,4 +25,7 @@ ruby directory.rb
 
 ## Interests ##
 
+- **Swimming** : I was appointed Captain of my school's swimming team.
+- **Music** : I use to moonlight as a (self-taught) bassist, and am a grade 6 level pianist.
+
 ## Links ##

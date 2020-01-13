@@ -6,7 +6,7 @@ This is my CV.
 
 ## Projects ##
 
-For a complete list, see my [GitHub](https://github.com/jasylwong).
+For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositories).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |

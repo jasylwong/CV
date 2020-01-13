@@ -6,6 +6,8 @@ This is my CV.
 
 ## Projects ##
 
+For a complete list, see my [GitHub](https://github.com/jasylwong).
+
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Project1](#link) | Come back soon to see my projects ;) | TBC |
@@ -16,7 +18,7 @@ This is my CV.
 ## Skills ##
 
 ```shell
-ruby directory.rb
+Placeholder
 ```
 
 ## Education ##
@@ -27,5 +29,10 @@ ruby directory.rb
 
 - **Swimming** : I was appointed Captain of my school's swimming team.
 - **Music** : I use to moonlight as a (self-taught) bassist, and am a grade 6 level pianist.
+- **Travelling** : 
+- **Drawing** : 
+- **Reading** : 
 
 ## Links ##
+
+ [Codewars](#codewars) | [Linkedin](#linkedin) | [Website](#website)

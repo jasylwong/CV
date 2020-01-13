@@ -1,9 +1,14 @@
-# Student Directory #
+# Jason Wong #
 
-The student directory script allows you to manage the list of students enrolled at Villains Academy.
+This is my CV.
 
-## How to use ##
+## Projects ##
 
 ```shell
 ruby directory.rb
 ```
+
+## Education ##
+### Experience ###
+## Interests ##
+## Links ##

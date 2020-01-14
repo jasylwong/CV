@@ -35,8 +35,7 @@ These are the tech skills I am hoping to learn as part of my time at Makers:
 
 #### University of Warwick (September 2007 to July 2011)
 
-- MMORSE (Master's in Mathematics, Operational Research, Statistics & Economics)
-- 2:1
+- MMORSE (Master's in Mathematics, Operational Research, Statistics & Economics) (2:1)
 - Dissertation: A meta-analysis of the effects of the MMR vaccine on children (1st)
 - University of Warwick Big Band Treasurer (previously Librarian)
 
@@ -78,4 +77,4 @@ TBC
 
 ## Links ##
 
- [Codewars](#codewars) | [Linkedin](#linkedin) | [Website](#website)
+ [Codewars](https://www.codewars.com/users/jasylwong) | [Linkedin](#linkedin) | [Website](#website)

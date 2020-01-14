@@ -4,6 +4,8 @@
 
 This is my CV.
 
+A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+
 ## Projects ##
 
 For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositories).
@@ -23,7 +25,32 @@ Placeholder
 
 ## Education ##
 
+#### Makers Academy (start_date to end_date)
+
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+
+#### Your University / College (start_date to end_date)
+
+- Subject, any specialisms
+- Grade
+- Other cool stuff
+
+#### Any other qualifications
+
+That in some arguable way make you a better software developer or well-rounded person
+
 ## Experience ##
+
+**Brit Insurance** (August 2017 to January 2020)    
+*Enterprise Risk Management Actuary*  
+- Any experience relevent to software development
+
+**Mercer** (September 2015 to August 2017)   
+*Investment Analyst*  
+- Any experience relevent to software development
 
 ## Interests ##
 

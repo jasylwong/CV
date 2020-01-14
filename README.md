@@ -25,22 +25,30 @@ Placeholder
 
 ## Education ##
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2020 to Present)
 
+These are the tech skills I am hoping to learn as part of my time at Makers:
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Warwick (September 2007 to July 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MMORSE (Master's in Mathematics, Operational Research, Statistics & Economics)
+- 2:1
+- Dissertation: A meta-analysis of the effects of the MMR vaccine on children (1st)
+- University of Warwick Big Band Treasurer (previously Librarian)
+
+#### Bancroft's (1996 - 2007)
+
+- Scholarship holder
+- 4 A-levels: All grade A
+- 9 GCSEs: 7 A*'s and 2 A's
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+TBC
 
 ## Experience ##
 
@@ -48,15 +56,23 @@ That in some arguable way make you a better software developer or well-rounded p
 *Enterprise Risk Management Actuary*  
 - Any experience relevent to software development
 
-**Mercer** (September 2015 to August 2017)   
+**Mercer** (September 2014 to August 2017)   
 *Investment Analyst*  
 - Any experience relevent to software development
+
+**SIP Tianyuan Garments Co., Ltd** (January 2013 to October 2013)   
+*Merchandiser*  
+- TBC
+
+**Suzhou Education Association (SEIAE)** (September 2011 to June 2012)   
+*English Teacher*  
+- TBC
 
 ## Interests ##
 
 - **Swimming** : I was appointed Captain of my school's swimming team.
 - **Music** : I use to moonlight as a (self-taught) bassist, and am a grade 6 level pianist.
-- **Travelling** : 
+- **Travelling & languages** : Chinese Mandarin (Basic business proficiency, HSK level 5), French & Spanish (GCSE A*)
 - **Drawing** : 
 - **Reading** : 
 

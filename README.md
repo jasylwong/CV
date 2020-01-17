@@ -4,6 +4,9 @@
 
 I am a proactive and dynamic **Full Stack Junior Developer** (in training), looking for my first role in the tech industry. I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/), one of the most discerning dev bootcamps in the world.
 
+At the end of 2018, I qualified as an actuary. This represents a globally recognised profession and internationally recognised qualification that is renowned for being particularly arduous and with a signicantly high drop out rate. With that under my belt, I am
+now looking for my next challenge - somewhere I can put my driven nature, analytical mind and creative side to use.
+
 What attracts me to Software Development is the opportunity to pursue a modern analytical role in a technical and computing environment. Whilst I have always been mathematically inclined, I look forward to exercising my enjoyment of problem solving in an innovative and technology driven atmostphere.
 
 **Tech skills:** Ruby, HTML, CSS, JavaScript, Python
@@ -21,16 +24,16 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 
 ## Skills ##
 
-**Excellent communicator, presenter and mentor**
+#### Excellent communicator, presenter and mentor ####
 Work presentations, tutor and teaching roles
 
-**Self reliant individual but significantly contributory team member**
+#### Self reliant individual but significantly contributory team member ####
 Captain of swimming team, Big Band exec
 
-**Fast learner and strong time manager**
+#### Fast learner and strong time manager ####
 FIA
 
-**Highly analytical thinker and innovative problem solver**
+#### Highly analytical thinker and innovative problem solver ####
 Code Untapped
 Funding for gigs
 

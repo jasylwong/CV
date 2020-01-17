@@ -87,10 +87,10 @@ These are just some of the tech skills I am hoping to learn as part of my time a
 
 ## Interests ##
 
-- **Swimming:** Captain of the school swimming team.
-- **Music:** Ex-professional (self-taught) bassist, and grade 6 pianist.
-- **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from living in China for 2 years, French & Spanish (GCSE A*)
-- **Drawing** 
+- :swimmer: **Swimming:** Captain of the school swimming team.
+- :guitar: **Music:** Ex-professional (self-taught) bassist, and grade 6 pianist.
+- :running: **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from living in China for 2 years, French & Spanish (GCSE A*)
+- :pencil2: **Drawing** 
 
 ## Links ##
 

@@ -72,6 +72,10 @@ These are just some of the tech skills I am hoping to learn as part of my time a
 - Validation of the company's Internal Capital Model for regulatory purposes
 - Setting the parameters for and running the ReMetrica catastrophe model to assess the company's potential exposure
 to worldwide natural disasters
+- Sensitivity testing the assumptions and limits within the TigerEye pricing model to help management
+determine the appropriat amount of outwards reinsurance to purchase
+- Stress testing the impact of historical and hypothetical investment risk scenarios on the company's investmnent
+portfolio using in-house analytical models linked with the Bloomberg market return platform
 
 **Mercer** (September 2014 to August 2017)   
 *Investment Analyst*  
@@ -82,12 +86,15 @@ transition performance returns and costs via Excel
 
 **SIP Tianyuan Garments Co., Ltd** (January 2013 to October 2013)   
 *Merchandiser*  
-- TBC
+- Managing GASA milestone progress and presenting their development to clients
+- Maintaining the Buy Ready tracking reports, creating trim cards and generating article design documents
+- Assisting with the management of seasonal styles for clients such as adidas
 
 **Suzhou Education Association (SEIAE)** (September 2011 to June 2012)   
 *English Teacher* (TEFL certified)  
-- Teaching English as a foreign language to classes of middle school students, as a representative of the British Council. 
-- Received ‘Exceptional performance’ award.
+- Teaching English as a foreign language to classes of middle school students, as a representative of the British Council
+- Tutoring working professionals to use English as a second language in their jobs
+- Received ‘Exceptional performance’ award
 
 ## Interests ##
 

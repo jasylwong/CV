@@ -2,9 +2,11 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#links)
 
-I am a proactive and dynamic **Full Stack Junior Developer** (in training). I am currently enrolled in [Makers]
+I am a proactive and dynamic **Full Stack Junior Developer** (in training), looking for my first role in the tech industry. I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/), one of the most discerning dev bootcamps in the world.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+
+
+Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 **Tech skills:** Ruby, HTML, CSS, JavaScript, Python
 
@@ -73,8 +75,8 @@ TBC
 ## Interests ##
 
 - **Swimming:** Captain of the school swimming team.
-- **Music:** Professional (self-taught) bassist, and a grade 6 pianist.
-- **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5), French & Spanish (GCSE A*)
+- **Music:** Ex-professional (self-taught) bassist, and grade 6 pianist.
+- **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from living in Suzhou for 2 years, French & Spanish (GCSE A*)
 - **Drawing** 
 
 ## Links ##

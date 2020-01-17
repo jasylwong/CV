@@ -4,7 +4,7 @@
 
 I am a proactive and dynamic **Full Stack Junior Developer** (in training), looking for my first role in the tech industry. I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/), one of the most discerning dev bootcamps in the world.
 
-At the end of 2018, I qualified as an actuary. This represents a globally recognised profession and internationally recognised qualification that is renowned for being particularly arduous and with a signicantly high drop out rate. With that under my belt, I am
+At the end of 2018, I qualified as an actuary. This certification represents a globally recognised profession and internationally recognised qualification that is renowned for being particularly arduous and with a signicantly high drop out rate. With that under my belt, I am
 now looking for my next challenge - somewhere I can put my driven nature, analytical mind and creative side to use.
 
 What attracts me to Software Development is the opportunity to pursue a modern analytical role in a technical and computing environment. Whilst I have always been mathematically inclined, I look forward to exercising my enjoyment of problem solving in an innovative and technology driven atmostphere.
@@ -70,20 +70,24 @@ These are just some of the tech skills I am hoping to learn as part of my time a
 *Enterprise Risk Management Actuary*  
 - Fully qualified actuary (Fellow of the Institute of Actuaries)
 - Validation of the company's Internal Capital Model for regulatory purposes
-- Any other experience relevent to software development
+- Setting the parameters for and running the ReMetrica catastrophe model to assess the company's potential exposure
+to worldwide natural disasters
 
 **Mercer** (September 2014 to August 2017)   
 *Investment Analyst*  
-- Any experience relevent to software development
 - IMC certificate holder
+- Using in-house technical software and various modelling tools to analyse risk profiles, such as calculating 
+transition performance returns and costs via Excel
+- Offering assistance and/or training as the team GCDB (Global Client Database) Champion
 
 **SIP Tianyuan Garments Co., Ltd** (January 2013 to October 2013)   
 *Merchandiser*  
 - TBC
 
 **Suzhou Education Association (SEIAE)** (September 2011 to June 2012)   
-*English Teacher*  
-- TEFL certified
+*English Teacher* (TEFL certified)  
+- Teaching English as a foreign language to classes of middle school students, as a representative of the British Council. 
+- Received ‘Exceptional performance’ award.
 
 ## Interests ##
 

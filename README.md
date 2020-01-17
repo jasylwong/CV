@@ -69,11 +69,10 @@ TBC
 
 ## Interests ##
 
-- **Swimming** : I was appointed Captain of my school's swimming team.
-- **Music** : I use to moonlight as a (self-taught) bassist, and am a grade 6 level pianist.
-- **Travelling & languages** : Chinese Mandarin (Basic business proficiency, HSK level 5), French & Spanish (GCSE A*)
-- **Drawing** : 
-- **Reading** : 
+- **Swimming:** Captain of the school swimming team.
+- **Music:** Professional (self-taught) bassist, and a grade 6 pianist.
+- **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5), French & Spanish (GCSE A*)
+- **Drawing** 
 
 ## Links ##
 

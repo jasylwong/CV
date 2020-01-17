@@ -53,7 +53,8 @@ TBC
 
 **Brit Insurance** (August 2017 to January 2020)    
 *Enterprise Risk Management Actuary*  
-- Any experience relevent to software development
+- Fully qualified actuary (Fellow of the Institute of Actuaries)
+- Any other experience relevent to software development
 
 **Mercer** (September 2014 to August 2017)   
 *Investment Analyst*  

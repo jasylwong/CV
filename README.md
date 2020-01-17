@@ -4,9 +4,7 @@
 
 I am a proactive and dynamic **Full Stack Junior Developer** (in training), looking for my first role in the tech industry. I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/), one of the most discerning dev bootcamps in the world.
 
-
-
-Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+What attracts me to Software Development is the opportunity to pursue a modern analytical role in a technical and computing environment. Whilst I have always been mathematically inclined, I look forward to exercising my enjoyment of problem solving in an innovative and technology driven atmostphere.
 
 **Tech skills:** Ruby, HTML, CSS, JavaScript, Python
 
@@ -23,15 +21,24 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 
 ## Skills ##
 
-```shell
-Placeholder
-```
+**Excellent communicator, presenter and mentor**
+Work presentations, tutor and teaching roles
+
+**Self reliant individual but significantly contributory team member**
+Captain of swimming team, Big Band exec
+
+**Fast learner and strong time manager**
+FIA
+
+**Highly analytical thinker and innovative problem solver**
+Code Untapped
+Funding for gigs
 
 ## Education ##
 
 #### Makers Academy (January 2020 to Present)
 
-These are the tech skills I am hoping to learn as part of my time at Makers:
+These are just some of the tech skills I am hoping to learn as part of my time at Makers:
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -51,18 +58,21 @@ These are the tech skills I am hoping to learn as part of my time at Makers:
 
 #### Any other qualifications
 
-TBC
+- Qualified lifeguard
+- Qualified ASA Level 1 swimming teacher
 
 ## Experience ##
 
 **Brit Insurance** (August 2017 to January 2020)    
 *Enterprise Risk Management Actuary*  
 - Fully qualified actuary (Fellow of the Institute of Actuaries)
+- Validation of the company's Internal Capital Model for regulatory purposes
 - Any other experience relevent to software development
 
 **Mercer** (September 2014 to August 2017)   
 *Investment Analyst*  
 - Any experience relevent to software development
+- IMC certificate holder
 
 **SIP Tianyuan Garments Co., Ltd** (January 2013 to October 2013)   
 *Merchandiser*  
@@ -70,13 +80,13 @@ TBC
 
 **Suzhou Education Association (SEIAE)** (September 2011 to June 2012)   
 *English Teacher*  
-- TBC
+- TEFL certified
 
 ## Interests ##
 
 - **Swimming:** Captain of the school swimming team.
 - **Music:** Ex-professional (self-taught) bassist, and grade 6 pianist.
-- **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from living in Suzhou for 2 years, French & Spanish (GCSE A*)
+- **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from living in China for 2 years, French & Spanish (GCSE A*)
 - **Drawing** 
 
 ## Links ##

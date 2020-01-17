@@ -2,9 +2,11 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#links)
 
-This is my CV.
+I am a proactive and dynamic **Full Stack Junior Developer** (in training). I am currently enrolled in [Makers]
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+
+**Tech skills:** Ruby, HTML, CSS, JavaScript, Python
 
 ## Projects ##
 

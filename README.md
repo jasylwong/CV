@@ -20,21 +20,27 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 | [Project2](#link) | Come back soon to see my projects ;) | TBC |
 | [Project3](#link) | Come back soon to see my projects ;) | TBC |
 
-
 ## Skills ##
 
 #### Excellent communicator, presenter and mentor ####
-Work presentations, tutor and teaching roles
+- Provided training to colleagues on exposure management via presentation
+- Taught English to business professionals and classes of schoolchildren
+- Selected to be the mentor for an intern during my time at Mercer
 
 #### Self reliant individual but significantly contributory team member ####
-Captain of swimming team, Big Band exec
+- As the Treasurer of the University Big Band Society, single handedly raised enough funding for the society
+to attend the NCBF festival in Glasgow, where we received a Platinum award.
+- As the swimming captain, led the school swimming team to a number of victories at local galas
 
-#### Fast learner and strong time manager ####
-FIA
+#### Fast learner, effective time keeping skills, and experienced project management ####
+- Had to balance both full time work and self study efficiently to qualify as an actuary a year quicker than the industry average
+- Responsible for coordinating all the presenters, collating documents, and ensuring required actions are communicated and completed for Brit's Risk Oversight Committee, which is attended by the Non-Executive Directors
 
 #### Highly analytical thinker and innovative problem solver ####
-Code Untapped
-Funding for gigs
+- As the Librarian of the University Big Band Society, introduced a new folder system which significantly reduced the time needed
+to organise and locate music sheets
+- This was combined with implementing the conversion of all music to electronic format, materially reducing printing costs and
+distribution times
 
 ## Education ##
 

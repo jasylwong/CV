@@ -15,10 +15,10 @@ What attracts me to Software Development is the opportunity to pursue a modern a
 For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositories).
 
 | Project   | Description | Link | Technologies |
-|---        |---         |---           |
+|---        |---          |---   |---           |
 | [NotesApp](#link) | A frontend, single page app using only pure JavaScript for creating notes | http://note-app-js.surge.sh/ | HTML, CSS, JavaScript |
 | [Battle](#link) | A web game for two people to battle pocket monsters | http://jw-battle.herokuapp.com/ | Ruby, Sinatra, HTML, CSS |
-| [Project3](#link) | Come back soon to see my projects ;) | TBC |
+| [Project3](#link) | Come back soon to see my projects ;) |   | TBC |
 
 ## Skills ##
 

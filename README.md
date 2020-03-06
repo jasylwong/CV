@@ -2,13 +2,13 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#links)
 
-I am a proactive and dynamic **Full Stack Junior Developer** (in training), looking for my first role in the tech industry. I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/), one of the most discerning dev bootcamps in the world.
+I am a proactive and dynamic **Full Stack Junior Developer**, looking for my first role in the tech industry. I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/), one of the most discerning dev bootcamps in the world.
 
 At the end of 2018, I qualified as an actuary - a globally recognised qualification that is renowned for being particularly arduous and with a signicantly high drop out rate. With that under my belt, I am now looking for my next challenge - somewhere I can put my driven nature, analytical mind and creative side to use in the tech industry.
 
 What attracts me to Software Development is the opportunity to pursue a modern analytical role in a technical and computing environment. Whilst I have always been mathematically inclined, I look forward to exercising my enjoyment of problem solving in an innovative and technology driven atmostphere.
 
-**Tech skills:** Ruby, HTML, CSS, JavaScript, Python
+**Tech skills:** Ruby (Sinatra, Rails, RSpec), HTML, CSS, JavaScript (jQuery, Jasmine), Python
 
 ## Projects ##
 
@@ -16,9 +16,9 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 
 | Project   | Description | Link | Technologies |
 |---        |---          |---   |---           |
-| [NotesApp](#link) | A frontend, single page app using only pure JavaScript for creating notes | http://note-app-js.surge.sh/ | HTML, CSS, JavaScript |
-| [Battle](#link) | A web game for two people to battle pocket monsters | http://jw-battle.herokuapp.com/ | Ruby, Sinatra, HTML, CSS |
-| [Project3](#link) | Come back soon to see my projects ;) |   | TBC |
+| [NotesApp](https://github.com/jasylwong/noteApp) | A frontend, single page app using only pure JavaScript for creating notes | http://note-app-js.surge.sh/ | HTML, CSS, JavaScript |
+| [Battle](https://github.com/jasylwong/battle) | A web game for two people to battle pocket monsters | http://jw-battle.herokuapp.com/ | Ruby, Sinatra, HTML, CSS |
+| [MakersBnB](https://github.com/jasylwong/MakersBnB) | Our group's take on AirBnB! | Coming soon! | Ruby, Sinatra, HTML, CSS, JavaScript |
 
 ## Skills ##
 
@@ -49,8 +49,9 @@ distribution times
 These are just some of the tech skills I am hoping to learn as part of my time at Makers:
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Languages: Ruby, JavaScript, SQL
+- Testing frameworks: RSpec, Jasmine
+- Other frameworks: Rails, Sinatra, jQuery
 
 #### University of Warwick (September 2007 to July 2011)
 

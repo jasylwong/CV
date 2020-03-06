@@ -14,9 +14,9 @@ What attracts me to Software Development is the opportunity to pursue a modern a
 
 For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositories).
 
-| Project   | Description | Technologies |
+| Project   | Description | Link | Technologies |
 |---        |---         |---           |
-| [Project1](#link) | Come back soon to see my projects ;) | TBC |
+| [NotesApp](#link) | A frontend, single page app using only pure JavaScript for creating notes | http://note-app-js.surge.sh/ | HTML, CSS, JavaScript |
 | [Project2](#link) | Come back soon to see my projects ;) | TBC |
 | [Project3](#link) | Come back soon to see my projects ;) | TBC |
 

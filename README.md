@@ -80,7 +80,7 @@ These are just some of the tech skills I am hoping to learn as part of my time a
 to worldwide natural disasters
 - Sensitivity testing the assumptions and limits within the TigerEye pricing model to help management
 determine the appropriat amount of outwards reinsurance to purchase
-- Stress testing the impact of historical and hypothetical investment risk scenarios on the company's investmnent
+- Stress testing the impact of historical and hypothetical investment risk scenarios on the company's investment
 portfolio using in-house analytical models linked with the Bloomberg market return platform
 
 **Mercer** (September 2014 to August 2017)   

@@ -46,12 +46,13 @@ distribution times
 
 #### Makers Academy (January 2020 to Present)
 
-These are just some of the tech skills I am hoping to learn as part of my time at Makers:
+An example of the skills I have developed during my time at Makers:
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Languages: Ruby, JavaScript, SQL
 - Testing frameworks: RSpec, Jasmine
 - Other frameworks: Rails, Sinatra, jQuery
+- Mentoring: for three students in a subsequent cohort
 
 #### University of Warwick (September 2007 to July 2011)
 

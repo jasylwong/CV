@@ -111,4 +111,4 @@ transition performance returns and costs via Excel
 
 ## Links ##
 
- [Codewars](https://www.codewars.com/users/jasylwong) | [Linkedin](https://www.linkedin.com/in/jasylwong/) | [Website](#website)
+ [Codewars](https://www.codewars.com/users/jasylwong) | [LinkedIn](https://www.linkedin.com/in/jasylwong/) | [Website](#website)

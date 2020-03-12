@@ -18,7 +18,7 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 |---        |---          |---   |---           |
 | [News Summary](https://github.com/jasylwong/noteApp) | A frontend, single page JavaScript app using Guardian and Aylien APIs to summarise news articles | http://news-summary-js.surge.sh/ | HTML, CSS, JavaScript |
 | [Battle](https://github.com/jasylwong/battle) | A web game for two people to battle pocket monsters | http://jw-battle.herokuapp.com/ | Ruby, Sinatra, HTML, CSS |
-| [Acebook](#) | Our group's take on Facebook! | Coming soon! | Ruby, Rails, HTML, CSS, JavaScript, SQL |
+| [Acebook](https://github.com/Kefuri/acebook-catflap) (WIP) | Our group's take on Facebook! | Coming soon! | Ruby, Rails, HTML, CSS, JavaScript, SQL |
 
 ## Skills ##
 

@@ -16,9 +16,9 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 
 | Project   | Description | Link | Technologies |
 |---        |---          |---   |---           |
-| [NotesApp](https://github.com/jasylwong/noteApp) | A frontend, single page app using only pure JavaScript for creating notes | http://note-app-js.surge.sh/ | HTML, CSS, JavaScript |
+| [News Summary](https://github.com/jasylwong/noteApp) | A frontend, single page JavaScript app using Guardian and Aylien APIs to summarise news articles | http://news-summary-js.surge.sh/ | HTML, CSS, JavaScript |
 | [Battle](https://github.com/jasylwong/battle) | A web game for two people to battle pocket monsters | http://jw-battle.herokuapp.com/ | Ruby, Sinatra, HTML, CSS |
-| [MakersBnB](https://github.com/jasylwong/MakersBnB) | Our group's take on AirBnB! | Coming soon! | Ruby, Sinatra, HTML, CSS, JavaScript |
+| [Acebook](#) | Our group's take on Facebook! | Coming soon! | Ruby, Rails, HTML, CSS, JavaScript, SQL |
 
 ## Skills ##
 

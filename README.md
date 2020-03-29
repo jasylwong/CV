@@ -6,7 +6,9 @@
 
 </div>
 
-A proactive, dynamic and creative **Full Stack Software Developer**, looking for my first role in the tech industry. I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/), one of the most discerning dev bootcamps in the world.
+A proactive, dynamic and creative **Full Stack Software Developer**, looking for my first role in the tech industry. 
+
+I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/), one of the most discerning dev bootcamps in the world.
 
 At the end of 2018, I qualified as an actuary - a globally recognised qualification that is renowned for being particularly arduous and with a signicantly high drop out rate. With that under my belt, I am now looking for my next challenge - somewhere I can put my driven nature, analytical mind and creative side to use in the tech industry.
 

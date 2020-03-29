@@ -1,8 +1,12 @@
+<div align="center">
+
 # Jason Wong #
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#links)
 
-I am a proactive and dynamic **Full Stack Junior Developer**, looking for my first role in the tech industry. I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/), one of the most discerning dev bootcamps in the world.
+</div>
+
+A proactive, dynamic and creative **Full Stack Software Developer**, looking for my first role in the tech industry. I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/), one of the most discerning dev bootcamps in the world.
 
 At the end of 2018, I qualified as an actuary - a globally recognised qualification that is renowned for being particularly arduous and with a signicantly high drop out rate. With that under my belt, I am now looking for my next challenge - somewhere I can put my driven nature, analytical mind and creative side to use in the tech industry.
 
@@ -23,20 +27,21 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 ## Skills ##
 
 #### Excellent communicator, presenter and mentor ####
-- Provided training to colleagues on exposure management via presentation
+- Provided training to colleagues on exposure management via presentations at Brit Insurance
 - Taught English to business professionals and classes of schoolchildren
 - Selected to be the mentor for an intern during my time at Mercer
 
-#### Self reliant individual but significantly contributory team member ####
+#### Self reliant individual and significantly contributory team member ####
 - As the Treasurer of the University Big Band Society, single handedly raised enough funding for the society
 to attend the NCBF festival in Glasgow, where we received a Platinum award.
 - As the swimming captain, led the school swimming team to a number of victories at local galas
 
 #### Fast learner, effective time keeping skills, and experienced project management ####
 - Had to balance both full time work and self study efficiently to qualify as an actuary a year quicker than the industry average
-- Responsible for coordinating all the presenters, collating documents, and ensuring required actions are communicated and completed for Brit's Risk Oversight Committee, which is attended by the Non-Executive Directors
+- Responsible for coordinating all the presenters, collating documents, and ensuring required actions are communicated and completed for Brit's Risk Oversight Committee, which is attended by the company's Non-Executive Directors
 
 #### Highly analytical thinker and innovative problem solver ####
+- Provided high level monthly summary of the company's investment portfolio to Brit's Chief Risk Officer, based on own technical analysis and interpretation of the company's assets and current economic environment.
 - As the Librarian of the University Big Band Society, introduced a new folder system which significantly reduced the time needed
 to organise and locate music sheets
 - This was combined with implementing the conversion of all music to electronic format, materially reducing printing costs and
@@ -51,8 +56,8 @@ An example of the skills I have developed during my time at Makers:
 - Agile/XP
 - Languages: Ruby, JavaScript, SQL
 - Testing frameworks: RSpec, Jasmine
-- Other frameworks: Rails, Sinatra, jQuery
-- Mentoring: for three students in a subsequent cohort
+- Other frameworks/libraries: Rails, Sinatra, jQuery
+- Mentoring: selected to be the mentor for two students in a subsequent cohort
 
 #### University of Warwick (September 2007 to July 2011)
 
@@ -63,22 +68,17 @@ An example of the skills I have developed during my time at Makers:
 #### Bancroft's (1996 - 2007)
 
 - Scholarship holder
-- 4 A-levels: All grade A
+- 4 A-levels: All grade A (Mathematics, Further Mathematics, Economics and Biology)
 - 9 GCSEs: 7 A*'s and 2 A's
-
-#### Any other qualifications
-
-- Qualified lifeguard
-- Qualified ASA Level 1 swimming teacher
 
 ## Experience ##
 
 **Brit Insurance** (August 2017 to January 2020)    
 *Enterprise Risk Management Actuary*  
 - Fully qualified actuary (Fellow of the Institute of Actuaries)
-- Validation of the company's Internal Capital Model for regulatory purposes
-- Setting the parameters for and running the ReMetrica catastrophe model to assess the company's potential exposure
-to worldwide natural disasters
+- Validation of the company's Internal Capital Model for regulatory purposes, making extensive use
+of Microsoft Excel
+- Setting the parameters for and running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
 - Sensitivity testing the assumptions and limits within the TigerEye pricing model to help management
 determine the appropriat amount of outwards reinsurance to purchase
 - Stress testing the impact of historical and hypothetical investment risk scenarios on the company's investment
@@ -105,11 +105,13 @@ transition performance returns and costs via Excel
 
 ## Interests ##
 
-- :swimmer: **Swimming:** Captain of the school swimming team.
-- :guitar: **Music:** Ex-professional (self-taught) bassist, and grade 6 pianist.
-- :running: **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from living in China for 2 years, French & Spanish (GCSE A*)
-- :pencil2: **Drawing** 
+- 👨‍💻 **Getting involved in the tech scene**: Attending events in a variety of tech groups and meetups, including but not limited to: FreeCodeCamp, Code Untapped, Coders UK
+- 🏊 **Swimming:** Captain of the school swimming team, qualified lifeguard, qualified ASA Level 1 swimming teacher
+- 🎸 **Music:** Ex-professional (self-taught) bassist, and grade 6 pianist
+- ✈️ **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from living in China for 2 years post-uni, French & Spanish (GCSE A*)
+- ✏️ **Drawing** 
+
 
 ## Links ##
 
- [Blog](https://medium.com/@jasylwong) | [LinkedIn](https://www.linkedin.com/in/jasylwong/) | [Codewars](https://www.codewars.com/users/jasylwong) | [Website](#website)(coming soon...)
+ [Blog](https://medium.com/@jasylwong) | [LinkedIn](https://www.linkedin.com/in/jasylwong/) | [Codewars](https://www.codewars.com/users/jasylwong) | [Website](https://jason-wong.netlify.com)

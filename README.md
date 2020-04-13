@@ -1,12 +1,20 @@
 <div align="center">
 
+[//]: # (Testing how to make comments which aren't rendered)
+
 # Jason Wong #
 
-[Blog](https://medium.com/@jasylwong) | [LinkedIn](https://www.linkedin.com/in/jasylwong/) | [Codewars](https://www.codewars.com/users/jasylwong) | [Website](https://jason-wong.netlify.com)
+<a href="https://jason-wong.netlify.com"><img src="images/www.png" width="95" alt="My website">
+<a href="https://www.linkedin.com/in/jasylwong/"><img src="images/linkedin.png" width="110" alt="LinkedIn">
+<a href="https://www.codewars.com/users/jasylwong"><img src="images/codewars.png" width="100" alt="Codewars">
+<a href="https://medium.com/@jasylwong"><img src="images/Monogram.svg" width="95" alt="Medium">
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#links)
 
 </div>
+
+
+
 
 A proactive, dynamic and creative **Full Stack Software Developer**, looking for my first role in the tech industry. 
 

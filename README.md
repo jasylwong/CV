@@ -31,7 +31,7 @@ Previously in my career, I qualified as an actuary (a globally recognised qualif
 
 I then became attracted to software development by its potential to be applied in all manners of fields, including e-commerce, fraud detection and medical healthcare. I enjoy working in industries which are continually progressing, and there is always the chance to learn something new. As programming becomes more prevalent in our everyday lives, I consider coding not only a form of enjoyment, but also a necessity in order to upskill and drive progression.
 
-I am keen to work at a company which also shares this goal of moving forward and creating benefit for its customers. Having now graduated from Makers, I am eager to use my driven nature, analytical mind, newfound tech skills, and creative side to help them achieve this. 
+I am keen to work at a company which also shares this goal of moving forward and creating real, tangible benefit for its customers. Having now graduated from Makers, I am eager to use my driven nature, analytical mind, and newfound tech skills to help them achieve this. 
 
 **Tech skills:** Ruby (Sinatra, Rails, RSpec), HTML, CSS, JavaScript (jQuery, Jasmine), Python
 
@@ -41,7 +41,7 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 
 | Project   | Description | Link | Technologies |
 |---        |---          |---   |---           |
-| [WePick](https://github.com/jasylwong/wepick) | A web app for helping you select movies to watch with friends | https://wepick.herokuapp.com/ | Ruby, Rails, HTML, CSS |
+| [WePick](https://github.com/jasylwong/wepick) | My final project at Makers! A web app for helping you select movies to watch with friends | https://wepick.herokuapp.com/ | Ruby, Rails, HTML, CSS |
 | [Personal website](https://github.com/jasylwong/my_website) | My very own website, built from the ground up using React | https://jason-wong.netlify.com/ | JavaScript, React, HTML, CSS |
 | [News Summary](https://github.com/jasylwong/noteApp) | A frontend, single page JavaScript app using Guardian and Aylien APIs to summarise news articles | http://news-summary-js.surge.sh/ | HTML, CSS, JavaScript |
 | [Battle](https://github.com/jasylwong/battle) | A web game for two people to battle pocket monsters | http://jw-battle.herokuapp.com/ | Ruby, Sinatra, HTML, CSS |
@@ -53,22 +53,22 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 - Taught English to business professionals and classes of schoolchildren, and received an ‘Exceptional performance’ award for my service
 - Selected to be the mentor for incoming employees/students at both Makers and Mercer
 
-#### Self reliant individual and significantly contributory team member ####
-- As the Treasurer of the [University Big Band Society](http://thebigband.co.uk/), single handedly raised enough funding for the society to attend the [NCBF festival](https://www.ncbf.info/) in Glasgow, where we received a Platinum award.
+#### Self-reliant individual and significantly contributory team member ####
+- As the Treasurer of the [University Big Band Society](http://thebigband.co.uk/), single handedly raised enough funding for them to attend the [NCBF festival](https://www.ncbf.info/) in Glasgow, where we received a Platinum award.
 - As the swimming captain, led the school swimming team to a number of victories at local galas
 
 #### Fast learner, effective time keeping skills, and experienced project management ####
 - Had to balance both full time work and self study efficiently to qualify as an actuary a year quicker than the [industry average](https://www.theactuary.com/archive/old-articles/part-6/a-long-road-3F/)
-- Responsible for coordinating all the presenters, collating documents, and ensuring required actions are communicated and completed for Brit's Risk Oversight Committee, which is attended by the company's Non-Executive Directors
+- Responsible for coordinating Brit's Risk Oversight Committee, which is attended by the company's Non-Executive Directors
 
 #### Highly analytical thinker and innovative problem solver ####
-- Provided high level monthly summary of the company's investment portfolio to Brit's Chief Risk Officer, based on own technical analysis and interpretation of the company's assets and current economic environment.
+- Produced summaries of the company's investment portfolio to Brit's Chief Risk Officer, based on own technical analysis and interpretation of the company's assets and current economic environment.
 - As the Librarian of the University Big Band Society, introduced a new folder system which significantly reduced the time needed to organise and locate music sheets
 - This was combined with implementing the conversion of hard copy sheet music to electronic format, materially reducing printing costs and distribution times
 
 ## Education ##
 
-#### Makers Academy (January to April 2020)
+#### [Makers Academy](https://makers.tech/) (January to April 2020)
 
 An example of the skills I have developed during my time at Makers:
 - Object Oriented Programming, Test Driven Development, Model View Controller design patterns
@@ -77,12 +77,12 @@ An example of the skills I have developed during my time at Makers:
 - Other frameworks/libraries: Rails, Sinatra, jQuery
 - Mentoring: selected to be the mentor for two students in a subsequent cohort
 
-#### University of Warwick (September 2007 to July 2011)
+#### [University of Warwick](https://warwick.ac.uk/) (September 2007 to July 2011)
 
 - MMORSE (Master's in Mathematics, Operational Research, Statistics & Economics) (2:1)
 - Dissertation: A meta-analysis of the effects of the MMR vaccine on children (1st)
 
-#### Bancroft's (1996 - 2007)
+#### [Bancroft's School](https://www.bancrofts.org/) (1996 - 2007)
 
 - Scholarship holder
 - 4 A-levels: All grade A (Mathematics, Further Mathematics, Economics and Biology)

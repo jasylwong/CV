@@ -2,6 +2,8 @@
 
 # Jason Wong #
 
+[Blog](https://medium.com/@jasylwong) | [LinkedIn](https://www.linkedin.com/in/jasylwong/) | [Codewars](https://www.codewars.com/users/jasylwong) | [Website](https://jason-wong.netlify.com)
+
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#links)
 
 </div>
@@ -10,7 +12,7 @@ A proactive, dynamic and creative **Full Stack Software Developer**, looking for
 
 I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/), one of the most discerning dev bootcamps in the world.
 
-At the end of 2018, I qualified as an actuary - a globally recognised qualification that is renowned for being particularly arduous and with a signicantly high drop out rate. With that under my belt, I am now looking for my next challenge - somewhere I can put my driven nature, analytical mind and creative side to use in the tech industry.
+At the end of 2018, I qualified as an actuary - a globally recognised qualification that is renowned for being particularly arduous and with a significantly high drop out rate. With that under my belt, I am now looking for my next challenge - somewhere I can put my driven nature, analytical mind and creative side to use in the tech industry.
 
 What attracts me to Software Development is the opportunity to pursue a modern analytical role in a technical and computing environment. Whilst I have always been mathematically inclined, I look forward to exercising my enjoyment of problem solving in an innovative and technology driven atmostphere.
 
@@ -22,6 +24,7 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 
 | Project   | Description | Link | Technologies |
 |---        |---          |---   |---           |
+| [WePick](https://github.com/jasylwong/wepick) | A web app for helping you select movies to watch with friends | https://wepick.herokuapp.com/ | Ruby, Rails, HTML, CSS |
 | [News Summary](https://github.com/jasylwong/noteApp) | A frontend, single page JavaScript app using Guardian and Aylien APIs to summarise news articles | http://news-summary-js.surge.sh/ | HTML, CSS, JavaScript |
 | [Battle](https://github.com/jasylwong/battle) | A web game for two people to battle pocket monsters | http://jw-battle.herokuapp.com/ | Ruby, Sinatra, HTML, CSS |
 | [Acebook](https://github.com/Kefuri/acebook-catflap) | Our group's take on Facebook! | http://catflap-acebook.herokuapp.com/ | Ruby, Rails, HTML, CSS, JavaScript, SQL |
@@ -82,7 +85,7 @@ An example of the skills I have developed during my time at Makers:
 of Microsoft Excel
 - Setting the parameters for and running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
 - Sensitivity testing the assumptions and limits within the TigerEye pricing model to help management
-determine the appropriat amount of outwards reinsurance to purchase
+determine the appropriate amount of outwards reinsurance to purchase
 - Stress testing the impact of historical and hypothetical investment risk scenarios on the company's investment
 portfolio using in-house analytical models linked with the Bloomberg market return platform
 
@@ -112,8 +115,3 @@ transition performance returns and costs via Excel
 - 🎸 **Music:** Ex-professional (self-taught) bassist, and grade 6 pianist
 - ✈️ **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from living in China for 2 years post-uni, French & Spanish (GCSE A*)
 - ✏️ **Drawing** 
-
-
-## Links ##
-
- [Blog](https://medium.com/@jasylwong) | [LinkedIn](https://www.linkedin.com/in/jasylwong/) | [Codewars](https://www.codewars.com/users/jasylwong) | [Website](https://jason-wong.netlify.com)

@@ -1,4 +1,4 @@
-![Ansible Role](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![Ansible Role](https://img.shields.io/badge/<Last updated>-<April 2020>-<COLOR>)
 
 <div align="center">
 

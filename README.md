@@ -2,6 +2,7 @@
 ![Contactable](https://img.shields.io/badge/Contactable-For_sure-9cf)
 ![Last updated](https://img.shields.io/badge/Last_updated-April_2020-blue)
 ![Version](https://img.shields.io/badge/Version-2.0-blueviolet)
+![Status](https://img.shields.io/badge/Status-Music-red)
 ![Status](https://img.shields.io/badge/Status-Probably_listening_to_music-ff69b4)
 
 

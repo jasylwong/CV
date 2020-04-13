@@ -1,6 +1,8 @@
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
+![Contactable](https://img.shields.io/badge/Contactable-For_sure-9cf)
 ![Last updated](https://img.shields.io/badge/Last_updated-April_2020-blue)
-![Version](https://img.shields.io/badge/Version-1.0-blueviolet)
+![Version](https://img.shields.io/badge/Version-2.0-blueviolet)
+
 
 <div align="center">
 
@@ -23,13 +25,13 @@
 
 ## <a name="about_me">About me</a>
 
-A proactive, dynamic and creative **Full Stack Software Developer**, looking for my first role in the tech industry. 
+A proactive, dynamic and creative **Full Stack Software Developer** by day. A music and pizza aficionado by night.
 
-At the end of 2018, I qualified as an actuary - a globally recognised qualification that is renowned for being particularly arduous and with a significantly high drop out rate. With that under my belt, I am now looking for my next challenge - somewhere I can put my driven nature, analytical mind and creative side to use in the tech industry.
+Previously in my career, I qualified as an actuary (a globally recognised qualification renowned for being particularly arduous and with a significantly high drop out rate).
 
-I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/).
+I then became attracted to software development by its potential to be applied in all manners of fields, including e-commerce, fraud detection and medical healthcare. I enjoy working in industries which are continually progressing, and there is always the chance to learn something new. As programming becomes more prevalent in our everyday lives, I consider coding not only a form of enjoyment, but also a necessity in order to upskill and drive progression.
 
-What attracts me to Software Development is the opportunity to pursue a modern analytical role in a technical and computing environment. Whilst I have always been mathematically inclined, I look forward to exercising my enjoyment of problem solving in an innovative and technology driven atmostphere.
+I am keen to work at a company which also shares this goal of moving forward and creating benefit for its customers. Having now graduated from Makers, I am eager to use my driven nature, analytical mind, newfound tech skills, and creative side to help them achieve this. 
 
 **Tech skills:** Ruby (Sinatra, Rails, RSpec), HTML, CSS, JavaScript (jQuery, Jasmine), Python
 
@@ -48,32 +50,28 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 
 #### Excellent communicator, presenter and mentor ####
 - Provided training to colleagues on exposure management via presentations at Brit Insurance
-- Taught English to business professionals and classes of schoolchildren
-- Selected to be the mentor for an intern during my time at Mercer
+- Taught English to business professionals and classes of schoolchildren, and received an ‘Exceptional performance’ award for my service
+- Selected to be the mentor for incoming employees/students at both Makers and Mercer
 
 #### Self reliant individual and significantly contributory team member ####
-- As the Treasurer of the University Big Band Society, single handedly raised enough funding for the society
-to attend the NCBF festival in Glasgow, where we received a Platinum award.
+- As the Treasurer of the [University Big Band Society](http://thebigband.co.uk/), single handedly raised enough funding for the society to attend the [NCBF festival](https://www.ncbf.info/) in Glasgow, where we received a Platinum award.
 - As the swimming captain, led the school swimming team to a number of victories at local galas
 
 #### Fast learner, effective time keeping skills, and experienced project management ####
-- Had to balance both full time work and self study efficiently to qualify as an actuary a year quicker than the industry average
+- Had to balance both full time work and self study efficiently to qualify as an actuary a year quicker than the [industry average](https://www.theactuary.com/archive/old-articles/part-6/a-long-road-3F/)
 - Responsible for coordinating all the presenters, collating documents, and ensuring required actions are communicated and completed for Brit's Risk Oversight Committee, which is attended by the company's Non-Executive Directors
 
 #### Highly analytical thinker and innovative problem solver ####
 - Provided high level monthly summary of the company's investment portfolio to Brit's Chief Risk Officer, based on own technical analysis and interpretation of the company's assets and current economic environment.
-- As the Librarian of the University Big Band Society, introduced a new folder system which significantly reduced the time needed
-to organise and locate music sheets
-- This was combined with implementing the conversion of all music to electronic format, materially reducing printing costs and
-distribution times
+- As the Librarian of the University Big Band Society, introduced a new folder system which significantly reduced the time needed to organise and locate music sheets
+- This was combined with implementing the conversion of hard copy sheet music to electronic format, materially reducing printing costs and distribution times
 
 ## Education ##
 
-#### Makers Academy (January 2020 to Present)
+#### Makers Academy (January to April 2020)
 
 An example of the skills I have developed during my time at Makers:
-- OOP, TDD, MVC, DDD
-- Agile/XP
+- Object Oriented Programming, Test Driven Development, Model View Controller design patterns
 - Languages: Ruby, JavaScript, SQL
 - Testing frameworks: RSpec, Jasmine
 - Other frameworks/libraries: Rails, Sinatra, jQuery
@@ -83,50 +81,41 @@ An example of the skills I have developed during my time at Makers:
 
 - MMORSE (Master's in Mathematics, Operational Research, Statistics & Economics) (2:1)
 - Dissertation: A meta-analysis of the effects of the MMR vaccine on children (1st)
-- University of Warwick Big Band Treasurer (previously Librarian)
 
 #### Bancroft's (1996 - 2007)
 
 - Scholarship holder
 - 4 A-levels: All grade A (Mathematics, Further Mathematics, Economics and Biology)
-- 9 GCSEs: 7 A*'s and 2 A's
 
 ## Experience ##
 
-**Brit Insurance** (August 2017 to January 2020)    
-*Enterprise Risk Management Actuary*  
-- Fully qualified actuary (Fellow of the Institute of Actuaries)
-- Validation of the company's Internal Capital Model for regulatory purposes, making extensive use
-of Microsoft Excel
+**[Brit Insurance](https://www.britinsurance.com/)** (August 2017 to January 2020)    
+*Enterprise Risk Management Actuary (fully qualified Fellow of the Institute of Actuaries)*  
+- Validation of the company's Internal Capital Model for regulatory purposes, using Microsoft Excel
 - Setting the parameters for and running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
-- Sensitivity testing the assumptions and limits within the TigerEye pricing model to help management
-determine the appropriate amount of outwards reinsurance to purchase
-- Stress testing the impact of historical and hypothetical investment risk scenarios on the company's investment
-portfolio using in-house analytical models linked with the Bloomberg market return platform
+- Sensitivity testing the assumptions and limits within the TigerEye pricing model to help management purchase the appropriate amount of outwards reinsurance
+- Stress testing the impact of investment risk scenarios on the company's investment
+portfolio using in-house analytical models and the Bloomberg market platform
 
-**Mercer** (September 2014 to August 2017)   
+**[Mercer](https://www.mercer.com/)** (September 2014 to August 2017)   
 *Investment Analyst*  
-- IMC certificate holder
-- Using in-house technical software and various modelling tools to analyse risk profiles, such as calculating 
-transition performance returns and costs via Excel
+- Using in-house technical software and various modelling tools to analyse the investment risk profiles of clients and pension funds
 - Offering assistance and/or training as the team GCDB (Global Client Database) Champion
 
 **SIP Tianyuan Garments Co., Ltd** (January 2013 to October 2013)   
 *Merchandiser*  
-- Managing GASA milestone progress and presenting their development to clients
+- Managing GASA milestone progress and presenting their development to clients, such as adidas
 - Maintaining the Buy Ready tracking reports, creating trim cards and generating article design documents
-- Assisting with the management of seasonal styles for clients such as adidas
 
 **Suzhou Education Association (SEIAE)** (September 2011 to June 2012)   
 *English Teacher* (TEFL certified)  
-- Teaching English as a foreign language to classes of middle school students, as a representative of the British Council
-- Tutoring working professionals to use English as a second language in their jobs
+- Teaching English as a foreign language to classes of middle school students as a representative of the [British Council](https://www.britishcouncil.org/), as well as tutoring working professionals
 - Received ‘Exceptional performance’ award
 
 ## Interests ##
 
-- 👨‍💻 **Getting involved in the tech scene**: Attending events in a variety of tech groups and meetups, including but not limited to: FreeCodeCamp, Code Untapped, Coders UK
-- 🏊 **Swimming:** Captain of the school swimming team, qualified lifeguard, qualified ASA Level 1 swimming teacher
-- 🎸 **Music:** Ex-professional (self-taught) bassist, and grade 6 pianist
+- 👨‍💻 **Getting involved in the tech scene**: Attending events in a variety of tech groups and meetups, including but not limited to: [FreeCodeCamp](https://www.freecodecamp.org/), [Code Untapped](https://codeuntapped.com/), [Coders UK](https://www.meetup.com/CodersUK/)
+- 🏊 **Swimming:** Captain of the school swimming team, qualified lifeguard and ASA Level 1 swimming teacher
+- 🎸 **Music:** Ex-professional (self-taught) bassist, grade 6 pianist, and University of Warwick Big Band Treasurer (previously Librarian)
 - ✈️ **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from working in China for 2 years post-uni, French & Spanish (GCSE A*)
 - ✏️ **Drawing** 

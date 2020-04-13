@@ -1,6 +1,6 @@
 ![Last updated](https://img.shields.io/badge/Last_updated-April_2020-brightgreen)
 
-![For hire](https://img.shields.io/badge/For_hire_?-Yes!-brightgreen)
+![For hire](https://img.shields.io/badge/For_hire?-Yes!-brightgreen)
 
 <div align="center">
 

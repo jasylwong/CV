@@ -25,9 +25,9 @@
 
 ## <a name="about_me">About me</a>
 
-A proactive, dynamic and creative **Full Stack Software Developer** by day. A music and pizza aficionado by night.
+A proactive, dynamic and creative **Full Stack Software Developer** by day. A music, [film] and pizza aficionado by night.
 
-Previously in my career, I qualified as an actuary (a globally recognised qualification renowned for being particularly arduous and with a significantly high drop out rate).
+Previously in my career, I qualified as an [actuary](https://www.actuaries.org.uk/become-actuary/what-actuary) (a globally recognised qualification renowned for being particularly arduous and with a significantly high drop out rate).
 
 I then became attracted to software development by its potential to be applied in all manners of fields, including e-commerce, fraud detection and medical healthcare. I enjoy working in industries which are continually progressing, and there is always the chance to learn something new. As programming becomes more prevalent in our everyday lives, I consider coding not only a form of enjoyment, but also a necessity in order to upskill and drive progression.
 
@@ -54,7 +54,7 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 - Selected to be the mentor for incoming employees/students at both Makers and Mercer
 
 #### Self-reliant individual and significantly contributory team member ####
-- As the Treasurer of the [University Big Band Society](http://thebigband.co.uk/), single handedly raised enough funding for them to attend the [NCBF festival](https://www.ncbf.info/) in Glasgow, where we received a Platinum award.
+- As the Treasurer of the [University Big Band Society](http://thebigband.co.uk/), single handedly raised enough funding for them to attend the [National Concert Band Festival](https://www.ncbf.info/) in Glasgow, where we received a Platinum award.
 - As the swimming captain, led the school swimming team to a number of victories at local galas
 
 #### Fast learner, effective time keeping skills, and experienced project management ####
@@ -79,7 +79,7 @@ An example of the skills I have developed during my time at Makers:
 
 #### [University of Warwick](https://warwick.ac.uk/) (September 2007 to July 2011)
 
-- MMORSE (Master's in Mathematics, Operational Research, Statistics & Economics) (2:1)
+- [MMORSE](https://warwick.ac.uk/study/undergraduate/courses-2020/mmorse/) (Master's in Mathematics, Operational Research, Statistics & Economics) (2:1)
 - Dissertation: A meta-analysis of the effects of the MMR vaccine on children (1st)
 
 #### [Bancroft's School](https://www.bancrofts.org/) (1996 - 2007)
@@ -90,7 +90,7 @@ An example of the skills I have developed during my time at Makers:
 ## Experience ##
 
 **[Brit Insurance](https://www.britinsurance.com/)** (August 2017 to January 2020)    
-*Enterprise Risk Management Actuary (fully qualified Fellow of the Institute of Actuaries)*  
+*Enterprise Risk Management Actuary (fully qualified Fellow of the [Institute of Actuaries](https://www.actuaries.org.uk/)*  
 - Validation of the company's Internal Capital Model for regulatory purposes, using Microsoft Excel
 - Setting the parameters for and running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
 - Sensitivity testing the assumptions and limits within the TigerEye pricing model to help management purchase the appropriate amount of outwards reinsurance
@@ -104,11 +104,11 @@ portfolio using in-house analytical models and the Bloomberg market platform
 
 **SIP Tianyuan Garments Co., Ltd** (January 2013 to October 2013)   
 *Merchandiser*  
-- Managing GASA milestone progress and presenting their development to clients, such as adidas
+- Managing [GASA](http://sustainabilityreport.adidas-group.com/en/SER2010/suppliers/monitoring-compliance/sourcing-decisions/Default.aspx) milestone progress (a process for monitoring compliance) and presenting their development to clients, such as adidas
 - Maintaining the Buy Ready tracking reports, creating trim cards and generating article design documents
 
 **Suzhou Education Association (SEIAE)** (September 2011 to June 2012)   
-*English Teacher* (TEFL certified)  
+*English Teacher* ([TEFL](https://www.tefl.org/?gclid=Cj0KCQjwm9D0BRCMARIsAIfvfIaunF07n9YQi9JDwuiLvTqio0kzoNpbbepXTKoCTBY-sgpXVema4EQaAtjeEALw_wcB) certified)  
 - Teaching English as a foreign language to classes of middle school students as a representative of the [British Council](https://www.britishcouncil.org/), as well as tutoring working professionals
 - Received ‘Exceptional performance’ award
 

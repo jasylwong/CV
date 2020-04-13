@@ -1,4 +1,6 @@
-![Ansible Role](https://img.shields.io/badge/<Last updated>-<April 2020>-<COLOR>)
+![Ansible Role](https://img.shields.io/badge/<Last updated>-<April_2020>-<RED>)
+
+![Ansible Role](https://img.shields.io/badge/<Available_for_hire?>-<Yes!>-<Blue>)
 
 <div align="center">
 

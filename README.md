@@ -8,11 +8,11 @@
 
 # Jason Wong #
 
-<a href="https://jason-wong.netlify.com"><img src="images/www.png" width="95" alt="My website" align="left">
-<a href="https://www.linkedin.com/in/jasylwong/"><img src="images/linkedin.png" width="110" alt="LinkedIn" >
-<img src="images/white_space.jpg" width="200" height="100">
-<a href="https://www.codewars.com/users/jasylwong"><img src="images/codewars.png" width="100" alt="Codewars">
-<a href="https://medium.com/@jasylwong"><img src="images/Monogram.svg" width="95" alt="Medium" align="right">
+<a href="https://jason-wong.netlify.com"><img src="images/www.png" width="95" alt="My website" align="left"></a>
+<a href="https://www.linkedin.com/in/jasylwong/"><img src="images/linkedin.png" width="110" alt="LinkedIn"></a>
+<img src="images/white_space.jpg" width="180" height="100">
+<a href="https://www.codewars.com/users/jasylwong"><img src="images/codewars.png" width="100" alt="Codewars"></a>
+<a href="https://medium.com/@jasylwong"><img src="images/Monogram.svg" width="95" alt="Medium" align="right"></a>
 
 #
 

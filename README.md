@@ -1,6 +1,6 @@
-![Last updated](https://img.shields.io/badge/Last_updated-April_2020-brightgreen)
-![For hire](https://img.shields.io/badge/Available_for_hire-Yes-blue)
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1-blueviolet)
+![Last updated](https://img.shields.io/badge/Last_updated-April_2020-blue)
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 # Jason Wong #
 
 <a href="https://jason-wong.netlify.com"><img src="images/www.png" width="95" alt="My website" align="left">
-<a href="https://www.linkedin.com/in/jasylwong/"><img src="images/linkedin.png" width="110" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/jasylwong/"><img src="images/linkedin.png" width="110" alt="LinkedIn" style="float:left; padding-left:10%">
 <a href="https://www.codewars.com/users/jasylwong"><img src="images/codewars.png" width="100" alt="Codewars">
 <a href="https://medium.com/@jasylwong"><img src="images/Monogram.svg" width="95" alt="Medium" align="right">
 

@@ -41,7 +41,7 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 
 | Project   | Description | Link | Technologies |
 |---        |---          |---   |---           |
-| [WePick](https://github.com/jasylwong/wepick) | My final project at Makers! A web app for helping you select movies to watch with friends | https://wepick.herokuapp.com/ | Ruby, Rails, HTML, CSS |
+| [WePick](https://github.com/jasylwong/wepick) | My final group project at Makers! A web app for helping you select movies to watch with friends | https://wepick.herokuapp.com/ | Ruby, Rails, HTML, CSS |
 | [Personal website](https://github.com/jasylwong/my_website) | My very own website, built from the ground up using React | https://jason-wong.netlify.com/ | JavaScript, React, HTML, CSS |
 | [News Summary](https://github.com/jasylwong/noteApp) | A frontend, single page JavaScript app using Guardian and Aylien APIs to summarise news articles | http://news-summary-js.surge.sh/ | HTML, CSS, JavaScript |
 | [Battle](https://github.com/jasylwong/battle) | A web game for two people to battle pocket monsters | http://jw-battle.herokuapp.com/ | Ruby, Sinatra, HTML, CSS |
@@ -118,4 +118,4 @@ portfolio using in-house analytical models and the Bloomberg market platform
 - 🏊 **Swimming:** Captain of the school swimming team, qualified lifeguard and ASA Level 1 swimming teacher
 - 🎸 **Music:** Ex-professional (self-taught) bassist, grade 6 pianist, and University of Warwick Big Band Treasurer (previously Librarian)
 - ✈️ **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from working in China for 2 years post-uni, French & Spanish (GCSE A*)
-- ✏️ **Drawing** 
+- ✏️ **Drawing:** Graphic novel enthusiast, and [casual sketcher](https://www.instagram.com/p/BqIzOWugZ32/)

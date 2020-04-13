@@ -1,6 +1,6 @@
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
 ![Last updated](https://img.shields.io/badge/Last_updated-April_2020-blue)
-![Version](https://img.shields.io/badge/Version-1-blueviolet)
+![Version](https://img.shields.io/badge/Version-1.0-blueviolet)
 
 <div align="center">
 
@@ -8,41 +8,41 @@
 
 # Jason Wong #
 
+
 <a href="https://jason-wong.netlify.com"><img src="images/www.png" width="95" alt="My website" align="left"></a>
 <a href="https://www.linkedin.com/in/jasylwong/"><img src="images/linkedin.png" width="110" alt="LinkedIn"></a>
-<img src="images/white_space.jpg" width="180" height="100">
+<img src="images/white_space.jpg" width="170" height="100">
 <a href="https://www.codewars.com/users/jasylwong"><img src="images/codewars.png" width="100" alt="Codewars"></a>
 <a href="https://medium.com/@jasylwong"><img src="images/Monogram.svg" width="95" alt="Medium" align="right"></a>
 
 #
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 </div>
 
-
-
+## <a name="about_me">About me</a>
 
 A proactive, dynamic and creative **Full Stack Software Developer**, looking for my first role in the tech industry. 
 
-I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/), one of the most discerning dev bootcamps in the world.
-
 At the end of 2018, I qualified as an actuary - a globally recognised qualification that is renowned for being particularly arduous and with a significantly high drop out rate. With that under my belt, I am now looking for my next challenge - somewhere I can put my driven nature, analytical mind and creative side to use in the tech industry.
+
+I am currently enrolled in the software development programme at [Makers Academy](https://makers.tech/).
 
 What attracts me to Software Development is the opportunity to pursue a modern analytical role in a technical and computing environment. Whilst I have always been mathematically inclined, I look forward to exercising my enjoyment of problem solving in an innovative and technology driven atmostphere.
 
 **Tech skills:** Ruby (Sinatra, Rails, RSpec), HTML, CSS, JavaScript (jQuery, Jasmine), Python
 
-## Projects ##
+## <a name="projects">Projects</a>
 
 For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositories).
 
 | Project   | Description | Link | Technologies |
 |---        |---          |---   |---           |
 | [WePick](https://github.com/jasylwong/wepick) | A web app for helping you select movies to watch with friends | https://wepick.herokuapp.com/ | Ruby, Rails, HTML, CSS |
+| [Personal website](https://github.com/jasylwong/my_website) | My very own website, built from the ground up using React | https://jason-wong.netlify.com/ | JavaScript, React, HTML, CSS |
 | [News Summary](https://github.com/jasylwong/noteApp) | A frontend, single page JavaScript app using Guardian and Aylien APIs to summarise news articles | http://news-summary-js.surge.sh/ | HTML, CSS, JavaScript |
 | [Battle](https://github.com/jasylwong/battle) | A web game for two people to battle pocket monsters | http://jw-battle.herokuapp.com/ | Ruby, Sinatra, HTML, CSS |
-| [Acebook](https://github.com/Kefuri/acebook-catflap) | Our group's take on Facebook! | http://catflap-acebook.herokuapp.com/ | Ruby, Rails, HTML, CSS, JavaScript, SQL |
 
 ## Skills ##
 
@@ -128,5 +128,5 @@ transition performance returns and costs via Excel
 - 👨‍💻 **Getting involved in the tech scene**: Attending events in a variety of tech groups and meetups, including but not limited to: FreeCodeCamp, Code Untapped, Coders UK
 - 🏊 **Swimming:** Captain of the school swimming team, qualified lifeguard, qualified ASA Level 1 swimming teacher
 - 🎸 **Music:** Ex-professional (self-taught) bassist, and grade 6 pianist
-- ✈️ **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from living in China for 2 years post-uni, French & Spanish (GCSE A*)
+- ✈️ **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from working in China for 2 years post-uni, French & Spanish (GCSE A*)
 - ✏️ **Drawing** 

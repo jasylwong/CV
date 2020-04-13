@@ -89,9 +89,9 @@ An example of the skills I have developed during my time at Makers:
 
 **[Brit Insurance](https://www.britinsurance.com/)** (August 2017 to January 2020)    
 *Enterprise Risk Management Actuary (fully qualified Fellow of the [Institute of Actuaries](https://www.actuaries.org.uk/))*  
-- Validation of the company's Internal Capital Model for regulatory purposes, using Microsoft Excel
-- Setting the parameters for and running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
-- Sensitivity testing the assumptions and limits within the TigerEye pricing model to help management purchase the appropriate amount of outwards reinsurance
+- Validating the company's Internal Capital Model for regulatory purposes, using Microsoft Excel
+- Running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters
+- Sensitivity testing assumptions within the TigerEye pricing model to help management purchase appropriate insurance
 - Stress testing the impact of investment risk scenarios on the company's investment
 portfolio using in-house analytical models and the Bloomberg market platform
 

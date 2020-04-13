@@ -23,7 +23,7 @@
 
 </div>
 
-## <a name="about_me">About me</a>
+## <a name="about_me">About me (in a nutshell)</a>
 
 A proactive, dynamic and creative **Full Stack Software Developer** by day. A music, [film](https://wepick.herokuapp.com/) and pizza aficionado by night.
 
@@ -35,7 +35,7 @@ I am keen to work at a company which also shares this goal of moving forward and
 
 **Tech skills:** Ruby (Sinatra, Rails, RSpec), HTML, CSS, JavaScript (jQuery, Jasmine, React), Python
 
-## <a name="projects">Projects</a>
+## <a name="projects">What I've been working on (Projects)</a>
 
 For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositories).
 
@@ -46,7 +46,7 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 | [News Summary](https://github.com/jasylwong/noteApp) | A frontend, single page JavaScript app using Guardian and Aylien APIs to summarise news articles | http://news-summary-js.surge.sh/ | HTML, CSS, JavaScript |
 | [Battle](https://github.com/jasylwong/battle) | A web game for two people to battle pocket monsters | http://jw-battle.herokuapp.com/ | Ruby, Sinatra, HTML, CSS |
 
-## Skills ##
+## <a name="skills">What I bring to the table (Skills)</a>
 
 #### Excellent communicator, presenter and mentor ####
 - Provided training to colleagues on exposure management via presentations at Brit Insurance
@@ -66,7 +66,7 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 - As the Librarian of the University Big Band Society, introduced a new folder system which significantly reduced the time needed to organise and locate music sheets
 - This was combined with implementing the conversion of hard copy sheet music to electronic format, materially reducing printing costs and distribution times
 
-## Education ##
+## <a name="education">Where I've been learning (Education)</a>
 
 #### [Makers Academy](https://makers.tech/) (January to April 2020)
 
@@ -87,7 +87,7 @@ An example of the skills I have developed during my time at Makers:
 - Scholarship holder
 - 4 A-levels: All grade A (Mathematics, Further Mathematics, Economics and Biology)
 
-## Experience ##
+## <a name="experience">Where I've been developing (Experience)</a>
 
 **[Brit Insurance](https://www.britinsurance.com/)** (August 2017 to January 2020)    
 *Enterprise Risk Management Actuary (fully qualified Fellow of the [Institute of Actuaries](https://www.actuaries.org.uk/))*  
@@ -112,7 +112,7 @@ portfolio using in-house analytical models and the Bloomberg market platform
 - Teaching English as a foreign language to classes of middle school students as a representative of the [British Council](https://www.britishcouncil.org/), as well as tutoring working professionals
 - Received ‘Exceptional performance’ award
 
-## Interests ##
+## <a name="interests">When I'm not coding (Interests)</a>
 
 - 👨‍💻 **Getting involved in the tech scene**: Attending events in a variety of tech groups and meetups, including but not limited to: [FreeCodeCamp](https://www.freecodecamp.org/), [Code Untapped](https://codeuntapped.com/), [Coders UK](https://www.meetup.com/CodersUK/)
 - 🏊 **Swimming:** Captain of the school swimming team, qualified lifeguard and ASA Level 1 swimming teacher

@@ -9,7 +9,7 @@
 <a href="https://www.codewars.com/users/jasylwong"><img src="images/codewars.png" width="100" alt="Codewars">
 <a href="https://medium.com/@jasylwong"><img src="images/Monogram.svg" width="95" alt="Medium">
 
----
+#
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#links)
 

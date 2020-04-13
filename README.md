@@ -1,5 +1,5 @@
 ![Last updated](https://img.shields.io/badge/Last_updated-April_2020-brightgreen)
-![For hire](https://img.shields.io/badge/Available_for_hire-Yes!-blue)
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-blue)
 ![Version](https://img.shields.io/badge/Version-1.0_(The_original)-blueviolet)
 
 <div align="center">

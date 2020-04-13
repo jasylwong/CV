@@ -27,9 +27,7 @@
 
 A proactive, dynamic and creative **Full Stack Software Developer** by day. A music, [film](https://wepick.herokuapp.com/) and pizza aficionado by night.
 
-Previously in my career, I qualified as an [actuary](https://www.actuaries.org.uk/become-actuary/what-actuary) (a globally recognised qualification renowned for being particularly arduous and with a significantly high drop out rate).
-
-I then became attracted to software development by its potential to be applied in all manners of fields, including e-commerce, fraud detection and medical healthcare. Furthermore, I enjoy working in industries which are continually progressing, and where there is always the chance to learn something new. As programming becomes more prevalent in our everyday lives, I consider coding not only a form of enjoyment, but also a necessity in order to upskill and drive progression.
+Previously in my career, I qualified as an [actuary](https://www.actuaries.org.uk/become-actuary/what-actuary) (a globally recognised qualification renowned for being particularly arduous and with a significantly high drop out rate). I then became attracted to software development by its potential to be applied in all manners of fields, including e-commerce, fraud detection and medical healthcare. Furthermore, I enjoy working in industries which are continually progressing, and where there is always the chance to learn something new. As programming becomes more prevalent in our everyday lives, I consider coding not only a form of enjoyment, but also a necessity in order to upskill and drive progression.
 
 I am keen to work at a company which also shares this goal of moving forward and creating real, tangible benefit for its customers. Having now graduated from Makers, I am eager to use my driven nature, analytical mind, and newfound tech skills to help them achieve this. 
 

@@ -1,17 +1,19 @@
+![Ansible Role](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+
 <div align="center">
 
 [//]: # (Testing how to make comments which aren't rendered)
 
 # Jason Wong #
 
-<a href="https://jason-wong.netlify.com"><img src="images/www.png" width="95" alt="My website">
+<a href="https://jason-wong.netlify.com"><img src="images/www.png" width="95" alt="My website" align="left">
 <a href="https://www.linkedin.com/in/jasylwong/"><img src="images/linkedin.png" width="110" alt="LinkedIn">
 <a href="https://www.codewars.com/users/jasylwong"><img src="images/codewars.png" width="100" alt="Codewars">
-<a href="https://medium.com/@jasylwong"><img src="images/Monogram.svg" width="95" alt="Medium">
+<a href="https://medium.com/@jasylwong"><img src="images/Monogram.svg" width="95" alt="Medium" align="right">
 
 #
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#links)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 </div>
 

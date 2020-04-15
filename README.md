@@ -27,9 +27,9 @@
 
 A proactive, dynamic and creative **Full Stack Software Developer** by day. A music, [film](https://wepick.herokuapp.com/) and pizza aficionado by night.
 
-Previously in my career, I qualified as an [actuary](https://www.actuaries.org.uk/become-actuary/what-actuary) (a globally recognised qualification renowned for being particularly arduous and with a significantly high drop out rate). I then became attracted to software development by its potential to be applied in all manners of fields, including e-commerce, fraud detection and medical healthcare. Furthermore, I enjoy working in industries which are continually progressing, and where there is always the chance to learn something new. As programming becomes more prevalent in our everyday lives, I consider coding not only a form of enjoyment, but also a necessity in order to upskill and drive progression.
+Previously in my career, I qualified as an [actuary](https://www.actuaries.org.uk/become-actuary/what-actuary) (a globally recognised qualification renowned for being particularly arduous and with a significantly high drop out rate). I then became attracted to software development by its potential to be applied in all manners of fields, including e-commerce, fraud detection and medical healthcare. Furthermore, I enjoy working in industries that are continually progressing, and where there is always the chance to learn something new. As programming becomes more prevalent in our everyday lives, I consider coding not only a form of enjoyment, but also a necessity in order to upskill and drive progression.
 
-I am keen to work at a company which also shares this goal of moving the world forward and creating real, tangible benefit for its customers. Having now graduated from Makers, I am eager to use my driven nature, analytical mind, and newfound tech skills to help them achieve this. 
+I would like to work at a company that also shares this goal of moving the world forward and creating real, tangible benefit for its customers. Having now graduated from Makers, I am eager to use my driven nature, analytical mind, and newfound tech skills to help them achieve this. 
 
 **Tech skills:** Ruby (Sinatra, Rails, RSpec), HTML, CSS, JavaScript (jQuery, Jasmine, React), Python
 
@@ -61,7 +61,7 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 
 #### Highly analytical thinker and innovative problem solver ####
 - Produced summaries of the company's investment portfolio to Brit's Chief Risk Officer, based on own technical analysis and interpretation of the company's assets and current economic environment.
-- As the Librarian of the University Big Band Society, introduced a new folder system which significantly reduced the time needed to organise and locate music sheets
+- As the Librarian of the University Big Band Society, introduced a new folder system that significantly reduced the time needed to organise and locate music sheets
 - This was combined with implementing the conversion of hard copy sheet music to electronic format, materially reducing printing costs and distribution times
 
 ## <a name="education">Where I've been learning (Education)</a>
@@ -80,7 +80,7 @@ An example of the skills I have developed during my time at Makers:
 - [MMORSE](https://warwick.ac.uk/study/undergraduate/courses-2020/mmorse/) (Master's in Mathematics, Operational Research, Statistics & Economics) (2:1)
 - Dissertation: A meta-analysis of the effects of the MMR vaccine on children (1st)
 
-#### [Bancroft's School](https://www.bancrofts.org/) (1996 - 2007)
+#### [Bancroft's School](https://www.bancrofts.org/) (1996 to 2007)
 
 - Scholarship holder
 - 4 A-levels: All grade A (Mathematics, Further Mathematics, Economics and Biology)

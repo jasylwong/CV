@@ -31,11 +31,11 @@ Previously in my career, I qualified as an [actuary](https://www.actuaries.org.u
 
 I would like to work at a company that also shares this goal of moving the world forward and creating real, tangible benefit for its customers. Having now graduated from Makers, I am eager to use my driven nature, analytical mind, and newfound tech skills to help them achieve this. 
 
-**Tech skills:** Ruby (Sinatra, Rails, RSpec), HTML, CSS, JavaScript (jQuery, Jasmine, React), Python
+**Tech skills:** Ruby (Sinatra, Rails, RSpec), HTML, CSS, JavaScript (jQuery, React, Jasmine), Python
 
 ## <a name="projects">What I've been working on (Projects)</a>
 
-For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositories) repo list.
+For a complete list, see my [GitHub repo list](https://github.com/jasylwong?tab=repositories).
 
 | Project   | Description | Link | Technologies |
 |---        |---          |---   |---           |
@@ -47,22 +47,22 @@ For a complete list, see my [GitHub](https://github.com/jasylwong?tab=repositori
 ## <a name="skills">What I bring to the table (Skills)</a>
 
 #### Excellent communicator, presenter and mentor ####
-- Provided training to colleagues on exposure management via presentations at Brit Insurance
-- Taught English to business professionals and classes of schoolchildren, and received an ‘Exceptional performance’ award for my service
-- Selected to be the mentor for incoming employees/students at both Makers and Mercer
+- Provided training to colleagues on exposure management via presentations at Brit Insurance.
+- Taught English to business professionals and classes of schoolchildren, and received an ‘Exceptional performance’ award for my service.
+- Selected to be the mentor for incoming employees/students at both Makers and Mercer.
 
 #### Self-reliant individual and significantly contributory team member ####
 - As the Treasurer of the [University Big Band Society](http://thebigband.co.uk/), single handedly raised enough funding for them to attend the [National Concert Band Festival](https://www.ncbf.info/) in Glasgow, where we received a Platinum award.
-- As the swimming captain, led the school swimming team to a number of victories at local galas
+- As the swimming captain, led the school swimming team to a number of victories at local galas.
 
 #### Fast learner, effective time keeping skills, and experienced project management ####
-- Had to balance both full time work and self study efficiently to qualify as an actuary a year quicker than the [industry average](https://www.theactuary.com/archive/old-articles/part-6/a-long-road-3F/)
-- Responsible for coordinating Brit's Risk Oversight Committee, which is attended by the company's Non-Executive Directors
+- Had to balance both full time work and self study efficiently to qualify as an actuary a year quicker than the [industry average](https://www.theactuary.com/archive/old-articles/part-6/a-long-road-3F/).
+- Responsible for coordinating Brit's Risk Oversight Committee, which is attended by the company's Non-Executive Directors.
 
 #### Highly analytical thinker and innovative problem solver ####
 - Produced summaries of the company's investment portfolio to Brit's Chief Risk Officer, based on own technical analysis and interpretation of the company's assets and current economic environment.
-- As the Librarian of the University Big Band Society, introduced a new folder system that significantly reduced the time needed to organise and locate music sheets
-- This was combined with implementing the conversion of hard copy sheet music to electronic format, materially reducing printing costs and distribution times
+- As the Librarian of the University Big Band Society, introduced a new folder system that significantly reduced the time needed to organise and locate music sheets.
+- This was combined with implementing the conversion of hard copy sheet music to electronic format, materially reducing printing costs and distribution times.
 
 ## <a name="education">Where I've been learning (Education)</a>
 

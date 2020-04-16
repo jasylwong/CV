@@ -49,7 +49,6 @@ For a complete list, see my [GitHub repo list](https://github.com/jasylwong?tab=
 | [Personal website](https://github.com/jasylwong/my_website) | My very own website, built from the ground up using React | https://jason-wong.netlify.com/ | JavaScript, React, HTML, CSS |
 | [Bank tech test](https://github.com/jasylwong/bank_tech_test) | An app for users to create a bank account for depositing and withdrawing funds | https://github.com/jasylwong/bank_tech_test | Ruby |
 | [News Summary](https://github.com/jasylwong/noteApp) | A frontend, single page JavaScript app using Guardian and Aylien APIs to summarise news articles | http://news-summary-js.surge.sh/ | HTML, CSS, JavaScript |
-| [Battle](https://github.com/jasylwong/battle) | A web game for two people to battle pocket monsters | http://jw-battle.herokuapp.com/ | Ruby, Sinatra, HTML, CSS |
 
 ## <a name="skills">What I bring to the table (Skills)</a>
 

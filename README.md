@@ -25,13 +25,19 @@
 
 ## <a name="about_me">About me (in a nutshell)</a>
 
-A proactive, dynamic and creative **Full Stack Software Developer** by day. A music, [film](https://wepick.herokuapp.com/) and pizza aficionado by night.
+A proactive, dynamic and creative **Full Stack Software Developer** by day. A music, [film](https://github.com/jasylwong/wepick) and pizza aficionado by night.
 
 Previously in my career, I qualified as an [actuary](https://www.actuaries.org.uk/become-actuary/what-actuary) (a globally recognised qualification renowned for being particularly arduous and with a significantly high drop out rate). I then became attracted to software development by its potential to be applied in all manners of fields, including e-commerce, fraud detection and medical healthcare. Furthermore, I enjoy working in industries that are continually progressing, and where there is always the chance to learn something new. As programming becomes more prevalent in our everyday lives, I consider coding not only a form of enjoyment, but also a necessity in order to upskill and drive progression.
 
 I would like to work at a company that also shares this goal of moving the world forward and creating real, tangible benefit for its customers. Having now graduated from Makers, I am eager to use my driven nature, analytical mind, and newfound tech skills to help them achieve this. 
 
-**Tech skills:** Ruby (Sinatra, Rails, RSpec), HTML, CSS, JavaScript (jQuery, React, Jasmine), Python
+**Tech skills:** 
+- Ruby (Rails, Sinatra, RSpec, Capybara) 
+- JavaScript (React, jQuery, Jasmine)
+- SQL (PostgreSQL, TablePlus)
+- HTML, CSS (Bootstrap)
+- Travis CI, Code Climate
+- Heroku, Netlify
 
 ## <a name="projects">What I've been working on (Projects)</a>
 

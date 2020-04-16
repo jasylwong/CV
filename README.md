@@ -93,7 +93,7 @@ An example of the skills I have developed during my time at Makers:
 
 ## <a name="experience">Where I've been developing (Experience)</a>
 
-**[Brit Insurance](https://www.britinsurance.com/)** (August 2017 to January 2020)    
+**[Brit Insurance](https://www.britinsurance.com/)** (August 2016 to January 2020)    
 *Enterprise Risk Management Actuary (fully qualified Fellow of the [Institute of Actuaries](https://www.actuaries.org.uk/))*  
 - Validating the company's Internal Capital Model for regulatory purposes, using Microsoft Excel
 - Running the ReMetrica catastrophe software model to assess the company's potential exposure to worldwide natural disasters

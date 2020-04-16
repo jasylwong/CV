@@ -47,6 +47,7 @@ For a complete list, see my [GitHub repo list](https://github.com/jasylwong?tab=
 |---        |---          |---   |---           |
 | [WePick](https://github.com/jasylwong/wepick) | My final group project at Makers! A web app for helping you select movies to watch with friends | https://wepick.herokuapp.com/ | Ruby, Rails, HTML, CSS |
 | [Personal website](https://github.com/jasylwong/my_website) | My very own website, built from the ground up using React | https://jason-wong.netlify.com/ | JavaScript, React, HTML, CSS |
+| [Bank tech test](https://github.com/jasylwong/bank_tech_test) | An app for users to create a bank account for depositing and withdrawing funds | https://github.com/jasylwong/bank_tech_test | Ruby |
 | [News Summary](https://github.com/jasylwong/noteApp) | A frontend, single page JavaScript app using Guardian and Aylien APIs to summarise news articles | http://news-summary-js.surge.sh/ | HTML, CSS, JavaScript |
 | [Battle](https://github.com/jasylwong/battle) | A web game for two people to battle pocket monsters | http://jw-battle.herokuapp.com/ | Ruby, Sinatra, HTML, CSS |
 

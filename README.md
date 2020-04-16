@@ -112,7 +112,7 @@ portfolio using in-house analytical models and the Bloomberg market platform
 
 ## <a name="interests">When I'm not coding (Interests)</a>
 
-- 👨‍💻 **Getting involved in the tech scene**: Attending events in a variety of tech groups and meetups, including but not limited to: [FreeCodeCamp](https://www.freecodecamp.org/), [Code Untapped](https://codeuntapped.com/), [Coders UK](https://www.meetup.com/CodersUK/)
+- 👨‍💻 **Getting involved in the tech scene**: Attending events in a variety of tech groups and meetups, including but not limited to: [FreeCodeCamp](https://www.freecodecamp.org/), [Code Untapped](https://codeuntapped.com/), [Coders UK](https://www.meetup.com/CodersUK/), [LRUG](http://lrug.org/), [Ruby Hacknight](https://www.meetup.com/ruby-hacknight-london/) 
 - 🏊 **Swimming:** Captain of the school swimming team, qualified lifeguard and ASA Level 1 swimming teacher
 - 🎸 **Music:** Ex-professional (self-taught) bassist, grade 6 pianist, and University of Warwick Big Band Treasurer (previously Librarian)
 - ✈️ **Travelling & languages:** Chinese Mandarin (Basic business proficiency, HSK level 5) acquired from working in China for 2 years post-uni, French & Spanish (GCSE A*)

@@ -27,9 +27,9 @@
 
 A proactive, dynamic and creative **Full Stack Software Developer** by day. A music, [film](https://github.com/jasylwong/wepick) and pizza aficionado by night.
 
-Previously in my career, I qualified as an [actuary](https://www.actuaries.org.uk/become-actuary/what-actuary) (a globally recognised qualification renowned for being particularly arduous and with a significantly high drop out rate). I then became attracted to software development by its potential to be applied in all manners of fields, including e-commerce, fraud detection and medical healthcare. Furthermore, I enjoy working in industries that are continually progressing, and where there is always the chance to learn something new. As programming becomes more prevalent in our everyday lives, I consider coding not only a form of enjoyment, but also a necessity in order to upskill and drive progression.
+Previously in my career, I qualified as an [actuary](https://www.actuaries.org.uk/become-actuary/what-actuary) (a globally recognised qualification renowned for being particularly arduous and with a significantly high drop out rate). I then became attracted to software development by its potential to be applied in all manners of fields, including e-commerce, fraud detection and medical healthcare. Furthermore, I enjoy working in industries that are continually progressing, and where there is always the chance to learn something new. As programming becomes more prevalent in our everyday lives, I consider coding not only a form of enjoyment but also a necessity to upskill and drive progression.
 
-I would like to work at a company that also shares this goal of moving the world forward and creating real, tangible benefit for its customers. Having now graduated from Makers, I am eager to use my driven nature, analytical mind, and newfound tech skills to help them achieve this. 
+I would like to work at a company that also shares this goal of moving the world forward and creating real, tangible benefits for its customers. Having now graduated from Makers, I am eager to use my driven nature, analytical mind, and newfound tech skills to help them achieve this. 
 
 **Tech skills:** 
 - Ruby (Rails, Sinatra, RSpec, Capybara) 
@@ -48,7 +48,7 @@ For a complete list, see my [GitHub repo list](https://github.com/jasylwong?tab=
 | [WePick](https://github.com/jasylwong/wepick) | My final group project at Makers! A web app for helping you select movies to watch with friends | https://wepick.herokuapp.com/ | Ruby, Rails, HTML, CSS |
 | [Personal website](https://github.com/jasylwong/my_website) | My very own website, built from the ground up using React | https://jason-wong.netlify.com/ | JavaScript, React, HTML, CSS |
 | [Bank tech test](https://github.com/jasylwong/bank_tech_test) | An app for users to create a bank account for depositing and withdrawing funds | https://github.com/jasylwong/bank_tech_test | Ruby |
-| [News Summary](https://github.com/jasylwong/noteApp) | A frontend, single page JavaScript app using Guardian and Aylien APIs to summarise news articles | http://news-summary-js.surge.sh/ | HTML, CSS, JavaScript |
+| [News Summary](https://github.com/jasylwong/noteApp) | A frontend, single-page JavaScript app using Guardian and Aylien APIs to summarise news articles | http://news-summary-js.surge.sh/ | HTML, CSS, JavaScript |
 
 ## <a name="skills">What I bring to the table (Skills)</a>
 
@@ -58,11 +58,11 @@ For a complete list, see my [GitHub repo list](https://github.com/jasylwong?tab=
 - Selected to be the mentor for incoming employees/students at both Makers and Mercer.
 
 #### Self-reliant individual and significantly contributory team member ####
-- As the Treasurer of the [University Big Band Society](http://thebigband.co.uk/), single handedly raised enough funding for them to attend the [National Concert Band Festival](https://www.ncbf.info/) in Glasgow, where we received a Platinum award.
-- As the swimming captain, led the school swimming team to a number of victories at local galas.
+- As the Treasurer of the [University Big Band Society](http://thebigband.co.uk/), single-handedly raised enough funding for them to attend the [National Concert Band Festival](https://www.ncbf.info/) in Glasgow, where we received a Platinum award.
+- As the swimming captain, led the school swimming team to several victories at local galas.
 
-#### Fast learner, effective time keeping skills, and experienced project management ####
-- Had to balance both full time work and self study efficiently to qualify as an actuary a year quicker than the [industry average](https://www.theactuary.com/archive/old-articles/part-6/a-long-road-3F/).
+#### Fast learner, effective timekeeping skills, and experienced project management ####
+- Had to balance both full-time work and self-study efficiently to qualify as an actuary a year quicker than the [industry average](https://www.theactuary.com/archive/old-articles/part-6/a-long-road-3F/).
 - Responsible for coordinating Brit's Risk Oversight Committee, which is attended by the company's Non-Executive Directors.
 
 #### Highly analytical thinker and innovative problem solver ####
@@ -75,7 +75,7 @@ For a complete list, see my [GitHub repo list](https://github.com/jasylwong?tab=
 #### [Makers Academy](https://makers.tech/) (January to April 2020)
 
 An example of the skills I have developed during my time at Makers:
-- Object Oriented Programming, Test Driven Development, Model View Controller design patterns
+- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns
 - Languages: Ruby, JavaScript, SQL
 - Testing frameworks: RSpec, Jasmine
 - Other frameworks/libraries: Rails, Sinatra, jQuery
@@ -89,7 +89,7 @@ An example of the skills I have developed during my time at Makers:
 #### [Bancroft's School](https://www.bancrofts.org/) (1996 to 2007)
 
 - Scholarship holder
-- 4 A-levels: All grade A (Mathematics, Further Mathematics, Economics and Biology)
+- 4 A-levels: All grade A (Mathematics, Further Mathematics, Economics, and Biology)
 
 ## <a name="experience">Where I've been developing (Experience)</a>
 
@@ -108,7 +108,7 @@ portfolio using in-house analytical models and the Bloomberg market platform
 
 **SIP Tianyuan Garments Co., Ltd** (January 2013 to October 2013)   
 *Merchandiser*  
-- Managing [GASA](http://sustainabilityreport.adidas-group.com/en/SER2010/suppliers/monitoring-compliance/sourcing-decisions/Default.aspx) milestone progress (a process for monitoring compliance) and presenting their development to clients, such as adidas
+- Managing [GASA](http://sustainabilityreport.adidas-group.com/en/SER2010/suppliers/monitoring-compliance/sourcing-decisions/Default.aspx) milestone progress (a process for monitoring compliance) and presenting their development to clients, such as Adidas
 - Maintaining the Buy Ready tracking reports, creating trim cards and generating article design documents
 
 **Suzhou Education Association (SEIAE)** (September 2011 to June 2012)   

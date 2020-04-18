@@ -101,7 +101,7 @@ An example of the skills I have developed during my time at Makers:
 - Stress testing the impact of investment risk scenarios on the company's investment
 portfolio using in-house analytical models and the Bloomberg market platform
 
-**[Mercer](https://www.mercer.com/)** (September 2014 to August 2017)   
+**[Mercer](https://www.mercer.com/)** (September 2014 to August 2016)   
 *Investment Analyst*  
 - Using in-house technical software and various modelling tools to analyse the investment risk profiles of clients and pension funds
 - Offering assistance and/or training as the team GCDB (Global Client Database) Champion
